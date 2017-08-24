@@ -1,0 +1,8 @@
+# Exclude OS X filesystem artifacts
+.DS_Store
+
+# Exclude build intermediates
+*.[od]
+
+# Exclude target directories
+bin
